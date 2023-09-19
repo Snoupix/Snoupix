@@ -8,6 +8,6 @@ I'm a Full-Stack web developer passionate about programming since 2020.
 - 🔫 Here is my [contact page](https://snoupix.dev/contact) to reach me.
 - ⚡ Fun fact, each emoji above is one of my passions apart from programming !
 
-![Snoupix's private & public GitHub stats](https://readmeapi.snoupix.dev/?username=Snoupix&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+![Snoupix's private & public GitHub stats](https://readmeapi.snoupix.dev/?username=Snoupix&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&rank_icon=github)
 
 [![Top Langs](https://readmeapi.snoupix.dev/top-langs/?username=Snoupix&exclude_repo=lifeinvader&hide=php,html,css,lua,javascript,vue&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
