@@ -11,3 +11,5 @@ I'm a Full-Stack web developer passionate about programming since 2020.
 
 ![Snoupix's private & public GitHub stats](https://readmeapi.snoupix.dev/?username=Snoupix&show_icons=true&count_private=true&include_all_commits=true&theme=aura&rank_icon=github)
 [![Top Langs](https://readmeapi.snoupix.dev/top-langs/?username=Snoupix&exclude_repo=lifeinvader,qmk_firmware&hide=php,html,css,lua,javascript,vue,qml&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/snoupix"><img src="https://api.daily.dev/devcards/v2/AbIhwo0XOdNUVjjEu6sag.png?type=default&r=lbd" width="356" alt="Snoupix's Dev Card"/></a>
