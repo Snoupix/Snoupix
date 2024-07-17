@@ -9,8 +9,8 @@ I'm a Full-Stack web developer passionate about programming since 2020.
 - 🌮 Also, I use [Arch](https://archlinux.org/) and [Neovim](https://neovim.io/), btw.
 - ⚡ Fun fact, each emoji above is one of my passions apart from programming !
 
-![Snoupix's private & public GitHub stats](https://readmeapi.snoupix.dev/?username=Snoupix&show_icons=true&count_private=true&include_all_commits=true&theme=aura&rank_icon=github)
-[![Top Langs](https://readmeapi.snoupix.dev/top-langs/?username=Snoupix&exclude_repo=lifeinvader,qmk_firmware&hide=php,html,css,lua,javascript,vue,qml&layout=compact&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+![Snoupix's private & public GitHub stats](https://snoupix.dev:9000/?username=Snoupix&show_icons=true&count_private=true&include_all_commits=true&theme=aura&rank_icon=github)
+![Top Langs](https://snoupix.dev:9000/top-langs/?username=Snoupix&exclude_repo=lifeinvader,qmk_firmware&hide=php,html,css,lua,javascript,vue,qml&layout=compact&theme=aura)
 
 <details>
   <summary>Expand to see my <a target="_blank" href="https://app.daily.dev/snoupix">Daily.dev</a> card!</summary>
