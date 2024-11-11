@@ -19,7 +19,7 @@ snoupix@arch ~ $ whoami --verbose
 > Wishes to fly STOL bush planes IRL
 > Plays video games like AgeOfEmpires IV, Valorant and Star Citizen
 > Loves music, any kind, especially Rock/Metal
-> Custom keyboards enthusiast (current daily: Corne (crkbd) V3 MX self-bulit and soldered with OLED screens. View my C config @ https://github.com/Snoupix/qmk_firmware/tree/master/keyboards/crkbd/keymaps/snoupix)
+> Custom keyboards enthusiast (current daily: Corne (crkbd) V3 MX self-bulit and soldered with OLED screens. View my C config @ Snoupix/qmk_firmware/tree/master/keyboards/crkbd/keymaps/snoupix)
 
 snoupix@arch ~ $ current --stack --sort-techs-by="taste"
 > Frontend  : Typescript, Sveltekit, Vue, Remix/NextJS, TailwindCSS
