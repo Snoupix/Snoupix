@@ -23,7 +23,7 @@ snoupix@arch ~ $ whoami --verbose
 
 snoupix@arch ~ $ current --stack --sort-techs-by="taste"
 > Frontend  : Typescript, Sveltekit, Vue, Remix/NextJS, TailwindCSS
-> Backend   : Rust, Go, Bash, Deno, Lua, Python, C
+> Backend   : Rust, Zig, Go, Bash, Deno, Lua, C, Python
 > Editor    : Neovim
 > OS        : Arch Linux, BTW
 
