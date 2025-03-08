@@ -40,6 +40,7 @@ snoupix@arch ~ $ current --projects
 [![Daily.dev](https://img.shields.io/badge/Daily.dev-black?style=for-the-badge&logo=dailydotdev)](https://app.daily.dev/snoupix)
 [![Reddit](https://img.shields.io/badge/Reddit-black?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Snoupix/)
 [![dev.to](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto)](https://dev.to/snoupix)
+[![Bluesky](https://img.shields.io/badge/bluesky-black?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/snoupix.dev)
 [![Mastodon](https://img.shields.io/badge/mastodon-black?style=for-the-badge&logo=mastodon)](https://mastodon.social/@snoupix)
 
 <details>
