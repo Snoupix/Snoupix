@@ -47,8 +47,8 @@ snoupix@arch ~ $ current --projects
   <summary>Expand to see my stats</summary>
   </br>
   
-  <img src="https://readmeapi.snoupix.dev/?username=Snoupix&show_icons=true&count_private=true&include_all_commits=true&theme=aura&rank_icon=github" alt="Snoupix's private & public GitHub stats" />
-  <img width="30%" src="https://readmeapi.snoupix.dev/top-langs/?username=Snoupix&exclude_repo=lifeinvader,qmk_firmware&hide=php,html,css,lua,javascript,vue,qml&layout=compact&theme=aura" alt="Top Langs" />
+  <img src="https://readmeapi.snoupix.dev/api/?username=Snoupix&show_icons=true&count_private=true&include_all_commits=true&theme=aura&rank_icon=github" alt="Snoupix's private & public GitHub stats" />
+  <img width="30%" src="https://readmeapi.snoupix.dev/api/top-langs/?username=Snoupix&exclude_repo=lifeinvader,qmk_firmware&hide=php,html,css,lua,javascript,vue,qml&layout=compact&theme=aura" alt="Top Langs" />
   <br clear="both">
 
   <a target="_blank" href="https://app.daily.dev/snoupix"><img src="https://api.daily.dev/devcards/v2/AbIhwo0XOdNUVjjEu6sag.png?type=default&r=lbd" width="320" alt="Snoupix's Dev Card"/></a>
